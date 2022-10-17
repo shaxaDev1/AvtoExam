@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XfE1F+Ux2f+AML/KN9eh1L+o1R/M6XUPdGjYrh6aW+ENZurAw3XDwC3edZOCtkYKgNE+ShJS7oRKbjVqQByaQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Shahzod\\Desktop\\AutoSovolar.Wpf\\AutoSavol.Wpf\\AutoSavol.Wpf.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Shahzod\\Desktop\\lesson1\\Avtotest.Database\\Avtotest.Database.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Shahzod\\Desktop\\lesson1\\Avtotest.Database\\Avtotest.Database.csproj",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
